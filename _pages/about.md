@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,42 +17,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Institute of Computing Technology</a>, <a href="https://www.cas.cn/">Chinese Academy of Sciences</a>, supervised by Prof. Huawei Shen and Prof Bingbing Xu. My current research interests include the application of Large Language Models (LLMs). Before joining ICT, I received my bachelor’s degree from <a href="https://sxkxxy.tiangong.edu.cn/main.htm">School of Mathematical Sciences</a> , <a href="https://www.tiangong.edu.cn/mainm.htm">Tiangong University</a> in 2023.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- _2023.09 - now_, Msc in Computer Sciences and Technology, Institute of Computing Technology, China Academy of Sciences.
+- _2019.09 - 2023.06_, Bsc in Data Sciences and Big Data Technology, School of Mathematical Sciences, Tiangong University.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🔥 News
+
+- 2025.03: &nbsp;🤝 I'm looking for a summer internship. Here is my [resume]().
+<!-- - *2022.11*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/www2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Deeper Graph Neural Networks via Layer-Adaptive](https://dl.acm.org/doi/abs/10.1145/3543873.3587323)
+
+_Bingbing Xu, **Bin Xie**, Huawei Shen_
+
+_The ACM Web Conference 2023 (**CCF-A**)_
+
+[Code](https://github.com/WeepCat/LAGNN)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHMT</div><img src='images/ijhmt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Thermal Conduction Model of Asymmetric Structural Aramid Nanofiber Aerogel Membranes based on Fractal Theory](https://doi.org/10.1016/j.ijheatmasstransfer.2023.124086)
+
+_**Bin Xie**, Ying-He Hu, Lin-Tong Liu, Xiao-Kang Zhang, Li-Ke Zhang, Xiao Chen, Xu-Pin Zhuang, Xiao-Yin Wang_
+
+_International Journal of Heat and Mass Transfer (**JCR Q1**, IF 5.0)_
+
+</div>
+</div>
+
+# 🎖 Honors and Awards
+
+- _2021.11_, Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) **(top 2%)**
+- _2022.04_, Finalist award in Mathematical Contest in Modeling (MCM) **(top 1%)**
+- _2022.11_, **National Scholarship**, Ministry of Education of the People's Republic of China
+- _2019-2023_, Outstanding Graduates, Merit Student, The First Prize Scholarship, Individual Scholarship of Tiangong University
+- _2023.12_, Third Prize in The 20th "Huawei Cup" Chinese Graduate Mathematical Modeling Competition
+- _2025.02_, **1st Prize** in AgentSociety Challenge, The ACM Web Conference 2025
+
+<!-- # 💻 Experiences
+- _2022.01 - 2022.04_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
