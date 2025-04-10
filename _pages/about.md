@@ -31,7 +31,7 @@ Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Instit
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/www2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/acl2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Score Consistency Meets Preference Alignment: Dual-Consistency for Partial Reward Modeling]
@@ -45,7 +45,7 @@ _The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/www2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/www2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unveiling the Potential of LLMs in Simulated Society: A Knowledge-Driven LLM Agent Framework for User Modeling]
