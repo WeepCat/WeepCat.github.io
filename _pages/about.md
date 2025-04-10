@@ -31,7 +31,7 @@ Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Instit
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/acl2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Score Consistency Meets Preference Alignment: Dual-Consistency for Partial Reward Modeling
@@ -40,12 +40,12 @@ _**Bin Xie**, Bingbing Xu, Yige Yuan, Shengmao Zhu, Huawei Shen_
 
 _The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025, Under Review) (**CCF-A**)_
 
-[Code](https://github.com/WeepCat/SPRM) [Pdf]()
+[[Code](https://github.com/WeepCat/SPRM)] [[Pdf]('pdf/acl2025.pdf')]
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/www2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/www2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Unveiling the Potential of LLMs in Simulated Society: A Knowledge-Driven LLM Agent Framework for User Modeling
@@ -54,7 +54,7 @@ _Shengmao Zhu, Bingbing Xu, Yige Yuan, **Bin Xie**, Huawei Shen_
 
 _The ACM Web Conference 2023 (**CCF-A**)_
 
-[[Pdf]()]
+[[Pdf]('pdf/www2025.pdf')]
 
 </div>
 </div>
@@ -87,6 +87,9 @@ _International Journal of Heat and Mass Transfer (**JCR Q1**, IF 5.0)_
 
 </div>
 </div>
+
+# Projects
+
 
 # 🎖 Honors and Awards
 
