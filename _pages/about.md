@@ -26,7 +26,7 @@ Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Instit
 
 # 🔥 News
 
-- 2025.03: &nbsp;🤝 I'm looking for a summer internship. Here is my [resume]().
+- 2025.03: &nbsp;🤝 I'm looking for a summer internship. Here is my [resume](pdf/resume.pdf).
 <!-- - *2022.11*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
