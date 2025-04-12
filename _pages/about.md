@@ -52,7 +52,7 @@ Unveiling the Potential of LLMs in Simulated Society: A Knowledge-Driven LLM Age
 
 _Shengmao Zhu, Bingbing Xu, Yige Yuan, **Bin Xie**, Huawei Shen_
 
-_The ACM Web Conference 2023 (**CCF-A**)_
+_The ACM Web Conference 2025 (**CCF-A**)_
 
 [[Pdf]('pdf/www2025.pdf')]
 
