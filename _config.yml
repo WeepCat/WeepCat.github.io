@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Bin Xie"
   avatar: "images/android-chrome-512x512.png"
-  bio: "CAS Key Laboratory of AI Security, Institute of Computing Technology, CAS"
+  bio: "State Key Laboratory of AI Security, Institute of Computing Technology, CAS"
   location: "Beijing, China"
   employer:
   pubmed:
