@@ -54,7 +54,7 @@ _Shengmao Zhu, Bingbing Xu, Yige Yuan, **Bin Xie**, Huawei Shen_
 
 _The ACM Web Conference 2025 (**CCF-A**)_
 
-[[Pdf]('pdf/www2025.pdf')]
+[[Pdf](https://dl.acm.org/doi/10.1145/3701716.3719232)]
 
 </div>
 </div>
