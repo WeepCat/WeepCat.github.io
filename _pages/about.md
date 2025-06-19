@@ -40,8 +40,7 @@ _**Bin Xie**, Bingbing Xu, Yige Yuan, Shengmao Zhu, Huawei Shen_
 
 _The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025, main conference) (**CCF-A**)_
 
-[[Code](https://github.com/WeepCat/SPRM)] [[Pdf](https://arxiv.org/pdf/2506.12446)]
-
+[[Code](https://github.com/xiebin23/SP-PRM)] [[Pdf](https://arxiv.org/pdf/2506.12446)]
 </div>
 </div>
 
