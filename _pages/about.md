@@ -44,9 +44,6 @@ _Engineering Applications of Artificial Intelligence (Under Review, **JCR Q1, IF
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/www2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
