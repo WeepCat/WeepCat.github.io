@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Institute of Computing Technology</a>, <a href="https://www.cas.cn/">Chinese Academy of Sciences</a>, supervised by Prof. Huawei Shen and Prof. Bingbing Xu. My current research interests include graph neural networks (GNNs), multi-agent in social simulation and LLM alignment. Before joining ICT, I received my bachelor’s degree from <a href="https://sxkxxy.tiangong.edu.cn/main.htm">School of Mathematical Sciences</a> , <a href="https://www.tiangong.edu.cn/mainm.htm">Tiangong University</a> in 2023.
+Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Institute of Computing Technology</a>, <a href="https://www.cas.cn/">Chinese Academy of Sciences</a>, supervised by Prof. Huawei Shen and Prof. Bingbing Xu. My current research interests include Search Engine, Recommender System, Reward Modeling, graph neural networks (GNNs), multi-agent in social simulation and LLM alignment. Before joining ICT, I received my bachelor’s degree from <a href="https://sxkxxy.tiangong.edu.cn/main.htm">School of Mathematical Sciences</a> , <a href="https://www.tiangong.edu.cn/mainm.htm">Tiangong University</a> in 2023.
 
 # 📖 Educations
 
@@ -25,8 +25,6 @@ Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Instit
 - _2019.09 - 2023.06_, Bsc in Data Sciences and Big Data Technology, School of Mathematical Sciences, Tiangong University.
 
 # 🔥 News
-
-- 2025.03: &nbsp;🤝 I'm looking for a summer internship. Here is my [resume](pdf/resume.pdf).
 <!-- - *2022.11*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
