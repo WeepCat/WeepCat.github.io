@@ -31,10 +31,26 @@ Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Instit
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Survey on LLM-based Agents for Social Simulation: Taxonomy, Evaluation and Applications
+
+_Zixu Wang, **Bin Xie**, Bingbing Xu, Shengmao Zhu, Yige Yuan, Liang Pang, Du Su, Long Yang, Zixuan Li, Huawei Shen, Xueqi Cheng_
+
+_Engineering Applications of Artificial Intelligence (Under Review, **JCR Q1, IF 8.0**)_
+
+[[Pdf](pdf/survey.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/www2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Score Consistency Meets Preference Alignment: Dual-Consistency for Partial Reward Modeling
+From Outcomes to Processes: Guiding PRM Learning from ORM for Inference-Time Alignment
 
 _**Bin Xie**, Bingbing Xu, Yige Yuan, Shengmao Zhu, Huawei Shen_
 
