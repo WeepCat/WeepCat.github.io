@@ -38,7 +38,7 @@ _Zixu Wang, **Bin Xie**, Bingbing Xu, Shengmao Zhu, Yige Yuan, Liang Pang, Du Su
 
 _Engineering Applications of Artificial Intelligence (Under Review, **JCR Q1**, IF 8.0)_
 
-[[Pdf](pdf/survey.pdf)]
+[[Pdf](https://www.researchgate.net/publication/393357027_A_Survey_on_LLM-based_Agents_for_Social_Simulation_Taxonomy_Evaluation_and_Applications)]
 </div>
 </div>
 
