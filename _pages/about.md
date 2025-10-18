@@ -19,7 +19,6 @@ redirect_from:
 
 Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Institute of Computing Technology</a>, <a href="https://www.cas.cn/">Chinese Academy of Sciences</a>, supervised by Prof. Huawei Shen and Prof. Bingbing Xu. My current research interests include Search Engine, Recommender System, Reward Modeling, graph neural networks (GNNs), multi-agent in social simulation and LLM alignment. Before joining ICT, I received my bachelor’s degree from <a href="https://sxkxxy.tiangong.edu.cn/main.htm">School of Mathematical Sciences</a> , <a href="https://www.tiangong.edu.cn/mainm.htm">Tiangong University</a> in 2023.
 
-`Keep Active, Inspire Creativity, Enrich Life`
 # 📖 Educations
 
 - _2023.09 - now_, Msc in Computer Sciences and Technology, Institute of Computing Technology, China Academy of Sciences.
