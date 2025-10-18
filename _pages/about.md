@@ -35,7 +35,7 @@ Hi! I am a second-year Master student at <a href="http://www.ict.cas.cn/">Instit
 
 A Survey on LLM-based Agents for Social Simulation: Taxonomy, Evaluation and Applications
 
-_Zixu Wang, **Bin Xie**, Bingbing Xu, Shengmao Zhu, Yige Yuan, Liang Pang, Du Su, Long Yang, Zixuan Li, Huawei Shen, Xueqi Cheng_
+_Zixu Wang\*, **Bin Xie\***, Bingbing Xu, Shengmao Zhu, Yige Yuan, Liang Pang, Du Su, Long Yang, Zixuan Li, Huawei Shen, Xueqi Cheng_
 
 _Engineering Applications of Artificial Intelligence (Under Review, **JCR Q1**, IF 8.0)_
 
