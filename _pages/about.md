@@ -108,8 +108,11 @@ _International Journal of Heat and Mass Transfer (**JCR Q1**, IF 5.0)_
 - _2022.04_, Finalist award in Mathematical Contest in Modeling (MCM) **(top 1%)**
 - _2022.11_, **National Scholarship**, Ministry of Education of the People's Republic of China
 - _2019-2023_, Outstanding Graduates, Merit Student, The First Prize Scholarship, Individual Scholarship of Tiangong University
+- _2023.07_, Excellent Undergraduate Graduation Design of Tiangong University
 - _2023.12_, Third Prize in The 20th "Huawei Cup" Chinese Graduate Mathematical Modeling Competition
 - _2025.02_, **1st Prize** in AgentSociety Challenge, The ACM Web Conference 2025
+- _2025.05_, Institute of Computing Technology 3A Student Leader
+- _2025.10_, First Prize of Academic Scholarship of University of Chinese Academy of Sciences
 
 <!-- # 💻 Experiences
 - _2022.01 - 2022.04_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
